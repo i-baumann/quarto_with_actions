@@ -1,0 +1,26 @@
+---
+title: "quarto_with_actions"
+---
+
+R
+
+```{r}
+library(dplyr)
+
+1 + 1
+```
+
+Python
+
+```{python}
+import numpy as np
+
+1 + 1
+```
+
+Julia
+
+```{julia}
+
+1 + 1
+```
