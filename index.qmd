@@ -2,6 +2,10 @@
 title: "quarto_with_actions"
 ---
 
+```{r, include=FALSE}
+library(reticulate)
+```
+
 R
 
 ```{r}
