@@ -9,6 +9,20 @@
     ]
   },
   "Packages": {
+    "JuliaCall": {
+      "Package": "JuliaCall",
+      "Version": "0.17.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "Rcpp",
+        "knitr",
+        "rjson",
+        "utils"
+      ],
+      "Hash": "3fc7235465a350731873abfe58fed1b9"
+    },
     "Matrix": {
       "Package": "Matrix",
       "Version": "1.7-0",
@@ -431,6 +445,16 @@
         "withr"
       ],
       "Hash": "8810e64cfe0240afe926617a854a38a4"
+    },
+    "rjson": {
+      "Package": "rjson",
+      "Version": "0.2.21",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "f9da75e6444e95a1baf8ca24909d63b9"
     },
     "rlang": {
       "Package": "rlang",
