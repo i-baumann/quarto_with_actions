@@ -21,6 +21,7 @@ import numpy as np
 Julia
 
 ```{julia}
+using Plots
 
 1 + 1
 ```
