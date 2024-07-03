@@ -4,6 +4,6 @@
     "href": "index.html",
     "title": "quarto_with_actions",
     "section": "",
-    "text": "R\n\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n1 + 1\n\n[1] 2\n\n\nPython\n\nimport numpy as np\n\n1 + 1\n\n2\n\n\nJulia\n\n\n1 + 1\n\n2"
+    "text": "R\n\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n1 + 1\n\n[1] 2\n\n\nPython\n\nimport numpy as np\n\n1 + 1\n\n2"
   }
 ]
