@@ -38,7 +38,7 @@ jobs:
         uses: julia-actions/setup-julia@v1
         with:
           julia-version: '1.10.4'
-      - run: using Pkg; Pkg.add("Plots")
+      - run: import Pkg Pkg.add("Plots")
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
