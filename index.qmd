@@ -4,7 +4,6 @@ title: "quarto_with_actions"
 
 ```{r, include=FALSE}
 library(reticulate)
-library(JuliaCall)
 ```
 
 R
