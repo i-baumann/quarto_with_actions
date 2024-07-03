@@ -39,7 +39,6 @@ jobs:
         with:
           julia-version: '1.10.4'
           cache: 'Pkg'
-      - run: import Pkg; Pkg.add("Plots");
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2

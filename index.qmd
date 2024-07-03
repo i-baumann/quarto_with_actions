@@ -26,6 +26,9 @@ import numpy as np
 Julia
 
 ```{julia}
+import Pkg
+Pkg.add("Plots")
+
 using Plots
 
 1 + 1
