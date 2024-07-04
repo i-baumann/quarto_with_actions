@@ -1,1 +1,0 @@
-Sitemap: https://i-baumann.github.io/quarto_with_actions/sitemap.xml
